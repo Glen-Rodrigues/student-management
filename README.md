@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management System
 
 A full-stack web application for managing student records with CRUD operations. Built with React (frontend), Node.js/Express (backend), and MongoDB (database).
@@ -258,3 +259,6 @@ Student Management System - Full Stack Application
 
 **Happy Coding! 🚀**
 
+=======
+# student-management
+>>>>>>> 456b6829135eb65fb0403da0dc8ae98c3182f72d
